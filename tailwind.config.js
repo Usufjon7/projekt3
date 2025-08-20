@@ -7,6 +7,9 @@ module.exports = {
       "mb": { max: '510px' },
     }
   },
+    screens: {
+      "mb": { max:'510px'},
+    },
   plugins: [],
 }
 
